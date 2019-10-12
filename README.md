@@ -17,6 +17,10 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-Anatomy-Books/blob/master/um(11).pdf" style="text-decoration:none;">Anatomy Essentials For Dummies</a></b></li>                          
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-Anatomy-Books/blob/master/um(12).pdf" style="text-decoration:none;">Neurokinetics: The Dynamics of Neurobiology In Vivo</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-Anatomy-Books/blob/master/um(12).pdf" style="text-decoration:none;">Basic Human Anatomy</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-Anatomy-Books/blob/master/um(13).PDF" style="text-decoration:none;">Understanding the Human Body: An Introduction to Anatomy and Physiology</a></b></li>                          
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-Anatomy-Books/blob/master/um(14).pdf" style="text-decoration:none;">Anatomy and Physiology Laboratory Textbook</a></b></li> 
 
 </ul>                           
